@@ -6,8 +6,7 @@ class Backer
 
   def intialize(name)
     binding.pry
-    @name = name
-    
+
   end
   
   
